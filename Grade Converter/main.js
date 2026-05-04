@@ -57,10 +57,11 @@ gradeInput.placeholder = "Enter your grade";
 gradeInput.type = "number";
 gradeInput.style.fontSize = "20px";
 gradeInput.style.textAlign = "center";
-gradeInput.style.borderRadius = "3px";
+gradeInput.style.borderRadius = "10px";
 gradeInput.style.margin = "30px";
+gradeInput.style.border="none";
 gradeInput.style.padding = "5px";
-gradeInput.style.boxShadow = "0 0 5px rgb(143, 127, 127)";
+gradeInput.style.boxShadow = "0 0 5px hsl(0, 7%, 80%)";
 container.appendChild(gradeInput);
 
 // Final grade display

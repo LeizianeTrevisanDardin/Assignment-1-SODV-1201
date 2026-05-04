@@ -45,7 +45,7 @@ main.appendChild(profileContainer);
 
 
 const profileImg = document.createElement("img");
-profileImg.src = "./images/image.png";
+profileImg.src = "./images/Leiziane.png";
 profileImg.className = "profile-img";
 
 setTimeout(() => {
@@ -58,7 +58,7 @@ paragraph1.textContent = "Hello, my name is Leiziane but you can call me Lizzy!"
 paragraph1.className = "intro-text";
 
 const paragraph2 = document.createElement("p");
-paragraph2.textContent = "I am originally from Brazil, but I have been living in Canada for almost 12 years now. Currently I am a Software Development student at Bow Valley.";
+paragraph2.textContent = "I am junior fullstack and this was my first JS project. I am currently looking for an opportunity to keep developing my skills and support the company with my creativity."
 paragraph2.className = "intro-text";
 
 profileContainer.appendChild(paragraph1);
