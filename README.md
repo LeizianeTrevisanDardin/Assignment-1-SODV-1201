@@ -1,8 +1,8 @@
 OBJECTIVE 
-In this assignment, you are required to code a set of JavaScript functions and objects. You can 
+In this assignment, I was required to code a set of JavaScript functions and objects. I could 
 use any editor to write the functions. 
 
-TASKS 
+TASKS WERE:
 1. Create a personal profile page with any kind of style.    
 This page must include, at least:        
 • 1 picture that appears after 10 seconds.      
@@ -28,7 +28,7 @@ The correct grade is displayed. Use these values to convert grades:
 • E: 50 ≤ grade < 60 
 • F: grade < 50 
 
-Hints: You can use the global parseInt function to try and convert a string to a number. You can 
+Hints: I could use the global parseInt function to try and convert a string to a number. I could 
 use exception handling to handle invalid values. 
 
 
