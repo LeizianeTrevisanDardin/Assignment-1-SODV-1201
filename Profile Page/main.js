@@ -1,10 +1,3 @@
-/*
-* @Author: Leiziane Trevisan Dardin
-* @StudentID: 459656
-* @Description: I used Chatgpt to support in css style and functionalities like the picture appearing
-*/
-
-
 const nav = document.createElement("nav");
 nav.id = "nav";
 

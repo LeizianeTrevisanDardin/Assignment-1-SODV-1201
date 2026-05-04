@@ -1,9 +1,3 @@
-/*
-* @Author: Leiziane Trevisan Dardin
-* @StudentID: 459656
-* @Description: I used ChatGPT only as a guide to refresh JS and clarify doubts.
-*/
-
 //// -------------------- NAVIGATION --------------------
 const nav = document.createElement("nav");
 nav.id = "nav";
