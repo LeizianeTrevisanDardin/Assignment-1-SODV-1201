@@ -1,11 +1,3 @@
-/*
-* @Author: Leiziane Trevisan Dardin
-* @StudentID: 459656
-* @Date: optional
-* @Description: I have been using ChatGpt only as a guide to clarify doubts and add new functionalities.
-OpenAI. (2025). ChatGPT (June 2025 version). https://chat.openai.com/
-*/
-
 
 const nav = document.createElement("nav");
 nav.id = "nav";
